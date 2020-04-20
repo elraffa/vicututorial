@@ -1,0 +1,13 @@
+body {
+  background-color: black;
+  color: #ffffff;
+}
+
+h1 {
+  color: red;
+  font-family: 'Lato', sans-serif;
+}
+
+#container {
+  margin: 20px;
+}
